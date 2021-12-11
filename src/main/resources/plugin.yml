@@ -1,0 +1,8 @@
+name: PlotBuy
+version: '${project.version}'
+main: be.rivzer.plotbuy.Main
+depend: [WorldGuard]
+
+commands:
+  plotbuy:
+    description: Main commando
